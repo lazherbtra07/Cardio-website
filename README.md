@@ -1,5 +1,9 @@
 # "Cardio" One Page Website Template
 
+
+
+# <a href="https://cardio-website.netlify.app/"> DIRECT LINK </a>
+
 "Cardio" is a one page website template made by [PHIr](http://www.phir.co/) exclusively for Codrops.
 
 [Download on Codrops](http://tympanus.net/codrops/?p=24301)
